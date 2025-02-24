@@ -1,0 +1,9 @@
+✅ What You Have Done So Far
+1️⃣ Created a Virtual Environment (itservices_env)
+2️⃣ Installed Django in the virtual environment
+3️⃣ Started a New Django Project (itservices1)
+4️⃣ Applied Migrations (python manage.py migrate)
+5️⃣ Created a Superuser (python manage.py createsuperuser)
+6️⃣ Started the Django Server (python manage.py runserver)
+7️⃣ Reached the Django Admin Login Page (http://127.0.0.1:8000/admin/)
+
